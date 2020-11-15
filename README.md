@@ -26,4 +26,4 @@ on windows cmdprompt run `source venv/Scripts/activate.bat`
 5.  a. Look for related scripts inside ecomercescrapy/spiders if using scrapy
 
 ex. `scrapy crawl shopee`
-    b. Run python script if usiing beautifulsoup4
+    b. Run python script if using beautifulsoup4
