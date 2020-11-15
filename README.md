@@ -23,7 +23,7 @@ on windows cmdprompt run `source venv/Scripts/activate.bat`
 
 `pip3 install beautifulsoup4`
 
-5. Look for related scripts inside ecomercescrapy/spiders if using scrapy
+5.  a. Look for related scripts inside ecomercescrapy/spiders if using scrapy
 
 ex. `scrapy crawl shopee`
-
+    b. Run python script if usiing beautifulsoup4
