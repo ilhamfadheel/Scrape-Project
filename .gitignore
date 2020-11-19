@@ -1,5 +1,7 @@
 # Project dependencies
-# virutual environment directory
+# virtual environment directory
 venv/
 # twisted file for python windows
 Twisted-20.3.0-cp39-cp39-win_amd64.whl
+#Chromedriver for Linux
+chromedriver_linux64/
