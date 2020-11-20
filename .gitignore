@@ -1,7 +1,9 @@
 # Project dependencies
 # virtual environment directory
 venv/
-# twisted file for python windows
+# twisted file library for python windows
 Twisted-20.3.0-cp39-cp39-win_amd64.whl
-#Chromedriver for Linux
-chromedriver_linux64/
+#Chromedriver folder
+chromedriver/*
+#remove debug log
+ecommercebs4/debug.log
