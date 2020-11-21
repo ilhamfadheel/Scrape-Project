@@ -22,17 +22,18 @@ on linux shell/bash run `source venv/bin/activate`
 or you can also use Visual Studio Code python interpreter
      by pressing `ctrl + shift + p` and type python interpeter, and choose venv folder.
 
-4. install the required python library inside the venv
+4. install the required python libraries inside the venv
 
-`pip3 install scrapy` - might need to install wheel as dependency
+`pip3 install scrapy` - might need to install wheel library as dependency
 
 `pip3 install beautifulsoup4`
 
 `pip3 install selenium`
 
 install the right version of chromedriver here `https://sites.google.com/a/chromium.org/chromedriver/downloads`
+make sure to put the driver downloaded inside the chromedriver folder.
 
 5.  a. Look for related scripts inside ecomercescrapy/spiders if using scrapy
 
 ex. `scrapy crawl shopee`
-    b. Run python script if usiing beautifulsoup4
+    b. Run python script if using beautifulsoup4
