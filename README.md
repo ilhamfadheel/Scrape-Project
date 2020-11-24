@@ -9,7 +9,7 @@ https://scrape.sorudeshop.com/
 
 1. Clone to your local machine
 
-2. install venv using python3
+2. install venv using python3 to not break system tools globally
 
 `python3 -m venv venv`
 
