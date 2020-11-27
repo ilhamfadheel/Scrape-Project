@@ -7,3 +7,5 @@ Twisted-20.3.0-cp39-cp39-win_amd64.whl
 chromedriver/*
 #remove debug log
 ecommercebs4/debug.log
+#linux config
+ecommercebs4/~/

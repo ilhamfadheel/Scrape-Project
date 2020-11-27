@@ -30,7 +30,7 @@ or you can also use Visual Studio Code python interpreter
 
 `pip3 install selenium`
 
-install the right version of chromedriver here `https://sites.google.com/a/chromium.org/chromedriver/downloads`
+install the right version of chromedriver here https://sites.google.com/a/chromium.org/chromedriver/downloadss
 make sure to put the driver downloaded inside the chromedriver folder.
 
 5.  a. Look for related scripts inside ecomercescrapy/spiders if using scrapy
